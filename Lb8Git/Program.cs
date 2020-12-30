@@ -12,6 +12,7 @@ namespace Lb8Git
         {
             Console.WriteLine("Первое знакомство с GitHub");
             Console.WriteLine("Изменения на сервере");
+            Console.WriteLine("Ещё изменения на сервере");
         }
     }
 }
